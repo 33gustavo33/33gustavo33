@@ -1,6 +1,6 @@
 ### 33
-### 🌱 Atualmente estou apredendo javascript. por mais que eu ja sei bastante sobre, quero aprender mais.
-### 🔭 Atualmente estou trabalhado no raidord.
+### 🌱 kk
+### 🔭 eae men
 
 <!--
 **33gustavo33/33gustavo33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
