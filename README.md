@@ -6,6 +6,6 @@
  ## 33
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=33gustavo33&count_private=true&show_icons=true&theme=dark" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&count_private=true&show_icons=true&theme=dark&layout=compact">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=33gustavo33&count_private=true&show_icons=true&theme=dark">
 </div>
